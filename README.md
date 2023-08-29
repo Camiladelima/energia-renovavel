@@ -2,8 +2,10 @@
 Projeto Arquitetura de Dados em Nuvem
 
 *Equipe*
-Camila
-Giselle
+
+Camila de Lima
+
+Giselle Fleck
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
