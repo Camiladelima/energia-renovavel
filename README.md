@@ -7,7 +7,7 @@ Giselle
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
-| ETAPA 1        |[Documentação de Contexto](Etapa 1 - Previsão de Energia renovável.pdf) |
+| ETAPA 1        |[Documentação de Contexto]() |
 | ETAPA 2        |[Coleta de Dados]() |
 | ETAPA 3        |[Pré-processamento]() |
 | ETAPA 4        |[Aprendizagem de Máquina]()|
