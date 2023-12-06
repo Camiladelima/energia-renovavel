@@ -10,7 +10,7 @@ Camila de Lima
 
 Giselle Fleck
 
-Cristiano Geraldo Teixeira Silva
+Orientador: Cristiano Geraldo Teixeira Silva
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
