@@ -1,11 +1,16 @@
 # energia-renovavel
-Projeto Arquitetura de Dados em Nuvem
+Curso Superior de Tecnologia em Banco de Dados - PUC Minas
+EIXO: Ambiente Corporativo de Dados
+Disciplina: Projeto Arquitetura de Dados em Nuvem
+Projeto: Previsão de Energia Renovável
 
 *Equipe*
 
 Camila de Lima
 
 Giselle Fleck
+
+Cristiano Geraldo Teixeira Silva
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
