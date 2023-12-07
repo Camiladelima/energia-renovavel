@@ -20,5 +20,6 @@ Orientador: Cristiano Geraldo Teixeira Silva
 | ETAPA 4        |[Aprendizagem de Máquina](https://github.com/Camiladelima/energia-renovavel/blob/main/Etapa%204%20-%20Previs%C3%A3o%20de%20Energia%20renov%C3%A1vel.pdf)|
 | ETAPA 5        |[Análise dos Resultados](https://github.com/Camiladelima/energia-renovavel/blob/main/Previs%C3%A3o_do_Uso_de_Energia_Renov%C3%A1vel.ipynb) |
 | ETAPA 6        |[Otimização](https://github.com/Camiladelima/energia-renovavel/blob/main/Previs%C3%A3o_do_Uso_de_Energia_Renov%C3%A1vel.ipynb) |
-| ETAPA 6.1      |[Final](https://github.com/Camiladelima/energia-renovavel/blob/main/Etapa%206%20-%20Previs%C3%A3o%20de%20Energia%20Renov%C3%A1vel.pdf) |
+| ETAPA 7        |[Trabalho Final](https://github.com/Camiladelima/energia-renovavel/blob/main/Etapa%206%20-%20Previs%C3%A3o%20de%20Energia%20Renov%C3%A1vel.pdf) |
+| ETAPA 8        |[Energia - Base de Dados](https://github.com/Camiladelima/energia-renovavel/blob/main/t_stg_energia_202311221907.csv) |
 
